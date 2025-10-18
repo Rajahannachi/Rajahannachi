@@ -1,5 +1,5 @@
 ﻿# Rajahannachi
-# 👋 Hi, I'm Raja HANNACHI!
+# 👋 Hi, I'm Raja HANNACHI 🐻!
 
 ### 💻 Computer Science & Multimedia Engineering Student
 
@@ -95,4 +95,5 @@ Web platform for modeling and managing meteorological patterns
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for any collaboration opportunities!
+
 
