@@ -72,7 +72,7 @@ IoT system combining Deep Learning (YOLOv8, EfficientNetV2) for real-time detect
 Fine-tuned NLP model for normalizing automotive brand names
 - **Technologies**: Python, Hugging Face Transformers, PyTorch, Streamlit
 
-### 🌤️ Weather Pattern Management Tool
+### 💚 Pattern Management Tool
 Web platform for modeling and managing meteorological patterns
 - **Technologies**: Angular, FastAPI, MongoDB
 
@@ -95,3 +95,4 @@ Web platform for modeling and managing meteorological patterns
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for any collaboration opportunities!
+
