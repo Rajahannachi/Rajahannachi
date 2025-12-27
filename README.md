@@ -78,14 +78,6 @@ Web platform for modeling and managing meteorological patterns
 
 ---
 
-## 📊 GitHub Statistics
-
-![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajahannachi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajahannachi&layout=compact&theme=radical)
-
----
-
 ## 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-hannachi-01b668254)
@@ -95,5 +87,6 @@ Web platform for modeling and managing meteorological patterns
 ---
 
 ⭐️ Feel free to explore my repositories and reach out for any collaboration opportunities!
+
 
 
