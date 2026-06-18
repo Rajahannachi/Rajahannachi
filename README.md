@@ -10,7 +10,7 @@ Passionate about innovation and new technologies, I specialize in web developmen
 ## 🚀 About Me
 
 - 🎓 Engineering student at **Higher Institute of Multimedia Arts of Manouba**
-- 🌱 Currently exploring **AI**, **IoT**, and **Augmented Reality**
+- 🌱 Currently exploring **AI** and **Devops**
 - 🏆 Winner of **NXTHON HACKATHON 2025** and **PITCH FOR CHANGE 5.0 2024**
 - 🤖 Active member of **ISAMM Robotics Club**
 - 📫 Contact: rajahannachi21@gmail.com
